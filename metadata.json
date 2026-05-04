@@ -4,83 +4,95 @@
     "title": "Ängstlich",
     "durationMs": 113784,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▅█▃██▂█▆▂▅▃▄▇▇▆▇▇▅▂▃▄▃▄▇▇▇█▆▄▇"
   },
   {
     "filename": "ambient/aengstlich-2.mp3",
     "title": "Ängstlich 2",
     "durationMs": 64824,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "█▆▃▂▁▁██▇▃▁▃▃▃▃███▄▃▄▅███▇███▁"
   },
   {
     "filename": "ambient/dramatisch.mp3",
     "title": "Dramatisch",
     "durationMs": 158880,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▆▄▅▇▄█▇▆▅██▆▄▆▆▃▆▆█▇▇▇▆▆█████▆"
   },
   {
     "filename": "ambient/dramatisch-2.mp3",
     "title": "Dramatisch 2",
     "durationMs": 151344,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▄▅▃▄▇▃▆▅▅▆▃▆▃▆▃▆▇▆▆▄▆▅▇▇█▆▆▃█▄"
   },
   {
     "filename": "ambient/eklig.mp3",
     "title": "Eklig",
     "durationMs": 184824,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "█▇▆█▇█████▇████████▇██████████"
   },
   {
     "filename": "ambient/eklig-2.mp3",
     "title": "Eklig 2",
     "durationMs": 139152,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "█▃▅▆▇▅▃▂▆▇▇▇██████▇██▇█▄████▇▇"
   },
   {
     "filename": "ambient/froehlich.mp3",
     "title": "Fröhlich",
     "durationMs": 147720,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▃▄▂▃▄▄▅▅▆▆▆▆▇▇▇▇▇█▇▅▅▆▆▇▇▇▅▅▆▅"
   },
   {
     "filename": "ambient/froehlich-2.mp3",
     "title": "Fröhlich 2",
     "durationMs": 142704,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▃▃▃▃▆▅▅▅▅▅▅▄▅▄▅▆▆▅▆▆▄▄▃▄▅▅▅▃▂▁"
   },
   {
     "filename": "ambient/traurig.mp3",
     "title": "Traurig",
     "durationMs": 169824,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▅▅▇▄▇▄▆▄▆▇▇▇███▇███▆▅▄████▅▂█▆"
   },
   {
     "filename": "ambient/traurig-2.mp3",
     "title": "Traurig 2",
     "durationMs": 177744,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▂▃▄▅▃▆▅▇▅▆▆▆▆▇█▇▅█▆▇▇▆█▇▅▃▆▇▆▄"
   },
   {
     "filename": "ambient/wuetend.mp3",
     "title": "Wütend",
     "durationMs": 174480,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▇▄▆▇▇█▆▇█▆▇▆▆▆██▇███▇█▇█▇▇▇▆▇▆"
   },
   {
     "filename": "ambient/wuetend-2.mp3",
     "title": "Wütend 2",
     "durationMs": 164424,
     "genre": "ambient",
-    "source": "suno"
+    "source": "suno",
+    "waveform": "▇▇▆█▆█████▇▆████▇█▇█▇███▇▇███▆"
   }
 ]
