@@ -94,5 +94,197 @@
     "genre": "ambient",
     "source": "suno",
     "waveform": "▇▇▆█▆█████▇▆████▇█▇█▇███▇▇███▆"
+  },
+  {
+    "filename": "upbeat/upbeat-aengstlich-2.mp3",
+    "title": "Ängstlich 2 (Upbeat)",
+    "durationMs": 18672,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▆▅▅▅▄▅▆▆▅▅▆▆▆▆▆▆▆▆▇▆▆▆▆▆▇▇▆▆▂▁"
+  },
+  {
+    "filename": "upbeat/upbeat-aengstlich.mp3",
+    "title": "Ängstlich (Upbeat)",
+    "durationMs": 14760,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▃▄▅▄▄▄▄▄▄▇▇▆▇▇█▇▄▄▄▄▇▇▆█▇█▆▂▁▁"
+  },
+  {
+    "filename": "upbeat/upbeat-dramatisch-2.mp3",
+    "title": "Dramatisch 2 (Upbeat)",
+    "durationMs": 31104,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▂▃▃▃▄▃▃▃▄▃▃▄▆▄▄▃▅▇▇▇▇▇▇▇▇▇▇▆▄▁"
+  },
+  {
+    "filename": "upbeat/upbeat-dramatisch.mp3",
+    "title": "Dramatisch (Upbeat)",
+    "durationMs": 24840,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▃▃▄▃▃▄▄▄▃▃▄▄▄▄▄▅▄▃▃▅▆▆▆▆▇▆▆▇▅▁"
+  },
+  {
+    "filename": "upbeat/upbeat-eklig-2.mp3",
+    "title": "Eklig 2 (Upbeat)",
+    "durationMs": 81072,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▄▆▆▆▇▆▇▇▇▇▆▅▅▆▆▇▇▇▇▆▇▇█▃▇▇▇▇▇▇"
+  },
+  {
+    "filename": "upbeat/upbeat-eklig.mp3",
+    "title": "Eklig (Upbeat)",
+    "durationMs": 39624,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▃▅▅▅▆▅▅▆▆▇▆▆▆▆▇▇▆▇▄▄▄▄▃▅██▇██▆"
+  },
+  {
+    "filename": "upbeat/upbeat-froehlich-2.mp3",
+    "title": "Fröhlich 2 (Upbeat)",
+    "durationMs": 40272,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▂▃▄▃▄▄▅▅▃▄▄▄▆▇▇▇▆▇▇▇▇▇▄▆▇▇▇▇▇▂"
+  },
+  {
+    "filename": "upbeat/upbeat-froehlich.mp3",
+    "title": "Fröhlich (Upbeat)",
+    "durationMs": 54360,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▃▃▃▃▅▃▅▃▅▅▄▄▆▇▆▇▆▇▅▄▆▄▄███▇▄▅▄"
+  },
+  {
+    "filename": "upbeat/upbeat-traurig-2.mp3",
+    "title": "Traurig 2 (Upbeat)",
+    "durationMs": 99864,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▃▃▄▅▅▅▅█▇▇▅▆███▇▃▆█▄▆▇█▇▅███▆▂"
+  },
+  {
+    "filename": "upbeat/upbeat-traurig.mp3",
+    "title": "Traurig (Upbeat)",
+    "durationMs": 82080,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▃▃▄▄▄▄▄▄▆▇▇▆▆▅▇▆▆▆▆▅▄▅▇▅▅▇▇▇▆▂"
+  },
+  {
+    "filename": "upbeat/upbeat-wuetend-2.mp3",
+    "title": "Wütend 2 (Upbeat)",
+    "durationMs": 25944,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▅▃▂▃▄▅▇▅▇▅▂▃▃▃▆██▄▃▇█▇▆█▇▃▇██▄"
+  },
+  {
+    "filename": "upbeat/upbeat-wuetend.mp3",
+    "title": "Wütend (Upbeat)",
+    "durationMs": 27600,
+    "genre": "upbeat",
+    "source": "suno",
+    "waveform": "▅▇▄▂▂▂▂▆█▄▃▄▄▅███▅██▆███▆███▃▁"
+  },
+  {
+    "filename": "lofi/lofi-aengstlich-2.mp3",
+    "title": "Ängstlich 2 (Lo-Fi)",
+    "durationMs": 87672,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▅▅▄▅▇▆▆█▇█████▇▅▄▄▇█▇███▇▄███▄"
+  },
+  {
+    "filename": "lofi/lofi-aengstlich.mp3",
+    "title": "Ängstlich (Lo-Fi)",
+    "durationMs": 120432,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▅▄▅▇▇▇▅▃▆▆▇▇▅▆▇▇▇▇▅███▃▃▄▄▅▇█▆"
+  },
+  {
+    "filename": "lofi/lofi-dramatisch-2.mp3",
+    "title": "Dramatisch 2 (Lo-Fi)",
+    "durationMs": 156672,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▂▃▃▄▇▇▆▆▇▇▇▇▆▇▇▇▆█▇▇▇▆▇▆▅▆███▆"
+  },
+  {
+    "filename": "lofi/lofi-dramatisch.mp3",
+    "title": "Dramatisch (Lo-Fi)",
+    "durationMs": 154632,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▄▅▄▄▅▆▆▇▆▇▇▇▆▇▇▇▄███▃▇██▆▅██▃▅"
+  },
+  {
+    "filename": "lofi/lofi-eklig-2.mp3",
+    "title": "Eklig 2 (Lo-Fi)",
+    "durationMs": 129192,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▅▅▆▇▇▇▇█▇▇▆███▇▆██▆▄▇▇▇▇▇█▆▆▅▇"
+  },
+  {
+    "filename": "lofi/lofi-eklig.mp3",
+    "title": "Eklig (Lo-Fi)",
+    "durationMs": 83112,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▆▅▅▄█▆█▇█▆▅▃████▇▆▇▃▃▃█▇█▇███▂"
+  },
+  {
+    "filename": "lofi/lofi-froehlich-2.mp3",
+    "title": "Fröhlich 2 (Lo-Fi)",
+    "durationMs": 131184,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▂▂▆▇█▇▇▆▇▇▇▆▇███▇▆▇█▇▆▇▇█▃█▇█▇"
+  },
+  {
+    "filename": "lofi/lofi-froehlich.mp3",
+    "title": "Fröhlich (Lo-Fi)",
+    "durationMs": 69360,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▃▂▃▃▅▆▆▆▆▇▅▆▅▅▇▆▇▇▇▇▇▃▃████▆▂▁"
+  },
+  {
+    "filename": "lofi/lofi-traurig-2.mp3",
+    "title": "Traurig 2 (Lo-Fi)",
+    "durationMs": 123024,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▇▆▆▇▆▅▇██▆▇▇▇▇▇▆▆▃▇██▆▄█▇▃▇██▃"
+  },
+  {
+    "filename": "lofi/lofi-traurig.mp3",
+    "title": "Traurig (Lo-Fi)",
+    "durationMs": 132000,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▅▄▅▇▆▇▇▆▆▆▄▇▇▇▇▆▆▇▆█▇▇▃▃▅▆█▇▃▄"
+  },
+  {
+    "filename": "lofi/lofi-wuetend-2.mp3",
+    "title": "Wütend 2 (Lo-Fi)",
+    "durationMs": 143064,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▄▃▆▆▆▆▆▇▇▇▇▇▇██▇▆▇██▇█▇▄▆███▆▅"
+  },
+  {
+    "filename": "lofi/lofi-wuetend.mp3",
+    "title": "Wütend (Lo-Fi)",
+    "durationMs": 143304,
+    "genre": "lo-fi",
+    "source": "suno",
+    "waveform": "▅▄▆▇█▇▇▇█▇█▆▇███▅▆███████▆▅██▆"
   }
 ]
